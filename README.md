@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on pixiv crawler
+* q(≧▽≦q) 流螢我老婆 ╯q(≧▽≦q)
+* Specialist in Useless Program Research/Writing
+* 無駄プログラム研究・執筆の専門家
+* 專門研究/撰寫無用程式 ╰(*°▽°*)
 
 
