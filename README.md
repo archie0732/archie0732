@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 * 專門研究/撰寫無用程式 ╰(*°▽°*)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=archie0732)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archie0732)
+
+
+
