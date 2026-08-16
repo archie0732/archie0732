@@ -22,6 +22,7 @@ i'm arch1e0732 (Yu-Chi Hsu)
 * 專門研究/撰寫無用程式 ╰(*°▽°*)
 
 🌱 I’m currently learning `RAG` `NLP` `AI-Agent`
+
 📫 How to reach me: `yuchi.hsu0308@gmail.com` or `killer.archie.0732@gmail.com`
  
 
