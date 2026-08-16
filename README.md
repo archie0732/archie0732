@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+i'm arch1e0732 (Yu-Chi Hsu)
 * q(≧▽≦q) Hello World ╯q(≧▽≦q)
 * Specialist in Useless Program Research/Writing
 * 無駄プログラム研究・執筆の専門家
 * 專門研究/撰寫無用程式 ╰(*°▽°*)
+
+🌱 I’m currently learning `RAG` `NLP` `AI-Agent`
+📫 How to reach me: `yuchi.hsu0308@gmail.com` or `killer.archie.0732@gmail.com`
+ 
 
 
 
