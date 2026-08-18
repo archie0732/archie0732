@@ -34,9 +34,8 @@ I'm **Yu-Chi Hsu**, a developer and undergraduate researcher interested in
   and Tool-Augmented Generation Architecture,”
   *The 22nd Taiwan Conference on Software Engineering (TCSE 2026)*,
   Paper No. 50, First Author.
-  [Official Program](https://tcse2026.seat.org.tw/%E8%AD%B0%E7%A8%8B/%E8%AB%96%E6%96%87%E8%AD%B0%E7%A8%8B)
+  [視覺辨識與工具增強生成架構之智慧健康飲食管理系統](https://tcse2026.seat.org.tw/%E8%AD%B0%E7%A8%8B/%E8%AB%96%E6%96%87%E8%AD%B0%E7%A8%8B)
   · [Code](https://github.com/archie0732/healthy-diet)
-
 
 
 
