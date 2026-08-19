@@ -29,7 +29,8 @@ I'm **Yu-Chi Hsu**, a developer and undergraduate researcher interested in
 
 ## My Contribution in Github Repo
 
-1. [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) (over 2.k stars in github)
+1. [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) (over 2.3k stars in github)
+2. [fish-es/fish-short-drama-platform](https://github.com/fish-es/fish-short-drama-platform)
 
 
 ## Research
