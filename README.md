@@ -27,6 +27,11 @@ I'm **Yu-Chi Hsu**, a developer and undergraduate researcher interested in
 | [archie npm package](https://www.npmjs.com/~archie0732) | my `npm` dependency | `Node.js`, `npm` | 20,000+ package downloads |
 | [albion-auto-fishing](https://github.com/archie0732/albion-auto-fishing) | Auto finshing Script in Albion Online | PyTorch, OpenCV | Competition or research result |
 
+## My Contribution in Github Repo
+
+1. [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) (over 2.k stars in github)
+
+
 ## Research
 
 ### Paper Title 1
