@@ -1,96 +1,157 @@
-# Hi, I'm arch1e0732 👋
+<div align="center">
 
-I'm **Yu-Chi Hsu**, a developer and undergraduate researcher interested in
-**Retrieval-Augmented Generation, NLP, AI Agents, and practical AI systems**.
+# Hi, I'm Yu-Chi Hsu 👋
 
-| 中文 | 日本語 | English |
+### AI Researcher × Open-Source Developer
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Retrieval-Augmented+Generation;AI+Agents+%26+Multi-Agent+Systems;NLP+%26+Computer+Vision;Building+delightfully+unnecessary+software"
+  alt="Typing SVG"
+/>
+
+[![GitHub followers](https://img.shields.io/github/followers/archie0732?style=for-the-badge&logo=github&label=Followers)](https://github.com/archie0732?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=archie0732&style=for-the-badge&color=blueviolet)](https://github.com/archie0732)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/arch1e0732)
+
+**中文・日本語・English**
 
 > 專門研究／開發看似無用，但意外實用的程式。  
 > 無駄プログラム研究・開発の専門家。  
-> Specialist in building delightfully unnecessary software.
+> Building delightfully unnecessary software.
 
-## About Me
+</div>
 
-- 🔭 Building open-source AI applications and developer tools
-- 🌱 Currently exploring **RAG, NLP, Multi-Agent Systems, and Computer Vision**
+---
+
+## 👨‍💻 About Me
+
+- 🔬 Undergraduate researcher focused on **RAG, NLP and AI Agents**
+- 🚀 Building open-source AI applications with real-world users
 - 📝 First author of two conference papers
-- 🏆 Experienced in programming contests and AI competitions
-- 👨‍🏫 Teaching experience in Javascript, Python, and Rust
-- 💡 Interested in turning research ideas into usable software
+- 🏆 Programming contestant and AI competition participant
+- 👨‍🏫 Teaching JavaScript, Python and Rust
 
-## Languages
+## 🧰 Tech Stack
 
-<p align="left">
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=js,ts,python,rust,c,cpp,java,kotlin,cs,dart,flutter&perline=11"
+  alt="Programming languages"
+/>
+
+<br/>
+
+<img
+  src="https://skillicons.dev/icons?i=fastapi,nodejs,pytorch,opencv,postgres,redis,docker,linux,githubactions,git&perline=10"
+  alt="Frameworks and tools"
+/>
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/archie0732/healthy-diet-ai-agent">
   <img
-    src="https://skillicons.dev/icons?i=js,ts,python,rust,c,cpp,flutter,dart,cs,kotlin,java"
-    alt="JavaScript, TypeScript, Python, Rust, C, C++, Flutter, Dart, C#, Kotlin, Java"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=archie0732&repo=healthy-diet-ai-agent&theme=github_dark&hide_border=true"
+    alt="Healthy Diet AI Agent"
   />
-</p>
+</a>
+<a href="https://github.com/archie0732/manga-discord-bot">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=archie0732&repo=manga-discord-bot&theme=github_dark&hide_border=true"
+    alt="Manga Discord Bot"
+  />
+</a>
 
+<a href="https://github.com/archie0732/albion-auto-fishing">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=archie0732&repo=albion-auto-fishing&theme=github_dark&hide_border=true"
+    alt="Albion Auto Fishing"
+  />
+</a>
+<a href="https://www.npmjs.com/~archie0732">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=archie0732&repo=nhentai-api&theme=github_dark&hide_border=true"
+    alt="Archie NPM packages"
+  />
+</a>
 
+</div>
 
-## Featured Projects
+> 🍎 **Healthy Diet AI Agent** — RAG and tool-augmented dietary assistant  
+> 🤖 **Manga Discord Bot** — Used by 200+ Discord servers  
+> 📦 **NPM Packages** — More than 20,000 downloads  
+> 🎣 **Albion Auto Fishing** — Computer vision and automation  
 
-| Project | Description | Tech | Highlights |
-|---|---|---|---|
-| [healthy-diet-ai-agent](https://github.com/archie0732/healthy-diet-ai-agent) | use Lanchain to imply ai-agent, include rag, read-doc, save userdata  | Python, RAG, LLM | Paper, award, users, or stars |
-| [manga-discord-bot](https://github.com/archie0732/manga-discord-bot) | A discord bot, notificate while new chapter of comic update | TypeScript, Discord.js | Used by 200+ Discord servers |
-| [archie npm package](https://www.npmjs.com/~archie0732) | my `npm` dependency | `Node.js`, `npm` | 20,000+ package downloads |
-| [albion-auto-fishing](https://github.com/archie0732/albion-auto-fishing) | Auto finshing Script in Albion Online | PyTorch, OpenCV | Competition or research result |
+## 📄 Research
 
-## My Contribution in Github Repo
+### Intelligent Healthy Diet Management System
 
-1. [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) (over 2.3k stars in github)
-2. [fish-es/fish-short-drama-platform](https://github.com/fish-es/fish-short-drama-platform)
+**Visual Recognition × Tool-Augmented Generation**
 
+[![Conference](https://img.shields.io/badge/TCSE-2026-58A6FF?style=flat-square)](https://tcse2026.seat.org.tw/%E8%AD%B0%E7%A8%8B/%E8%AB%96%E6%96%87%E8%AD%B0%E7%A8%8B)
+![First Author](https://img.shields.io/badge/Role-First_Author-success?style=flat-square)
+![Paper](https://img.shields.io/badge/Paper-No._50-orange?style=flat-square)
 
-## Research
+**Yu-Chi Hsu**, Chun-Fang Pan, Chun-Ting Wu, Yi-Wen Lin and Meng-Yen Hsieh
 
-### Paper Title 1
+[📖 Paper](https://tcse2026.seat.org.tw/%E8%AD%B0%E7%A8%8B/%E8%AB%96%E6%96%87%E8%AD%B0%E7%A8%8B)
+・
+[💻 Source Code](https://github.com/archie0732/healthy-diet)
 
-- **Yu-Chi Hsu**, Chun-Fang Pan, Chun-Ting Wu, Yi-Wen Lin, and Meng-Yen Hsieh,
-  “An Intelligent Healthy Diet Management System Based on Visual Recognition
-  and Tool-Augmented Generation Architecture,”
-  *The 22nd Taiwan Conference on Software Engineering (TCSE 2026)*,
-  Paper No. 50, First Author.
-  [視覺辨識與工具增強生成架構之智慧健康飲食管理系統](https://tcse2026.seat.org.tw/%E8%AD%B0%E7%A8%8B/%E8%AB%96%E6%96%87%E8%AD%B0%E7%A8%8B)
-  · [Code](https://github.com/archie0732/healthy-diet)
+## 🏆 Achievements
 
+| | Achievement |
+|:--:|---|
+| 🏅 | AI CUP — Honorable Mention |
+| 🥉 | Taiwan Online Programming Contest 2024 |
+| 🏆 | ICPC Regional Qualifier 2025 & 2026 |
+| 🥈 | Providence University Programming Contest 2026 |
+| 🥉 | Providence University Programming Contest 2025 |
 
+## 🤝 Open-Source Contributions
 
-## Selected Achievements
+[![Alexandrie](https://img.shields.io/badge/Alexandrie-2.3k%2B_Stars-181717?style=for-the-badge&logo=github)](https://github.com/Smaug6739/Alexandrie)
+[![Short Drama Platform](https://img.shields.io/badge/Short_Drama_Platform-Contributor-181717?style=for-the-badge&logo=github)](https://github.com/fish-es/fish-short-drama-platform)
 
-- 🏅 AI CUP — [佳作]
-- 🥉 Taiwan Online Programming Contest — [2024 銅牌] 
-- 🏆 ICPC Regional — Qualified in [2025 入圍] and [2026 入圍]
-- 🥈 Providence University Programming Contest — [2026 銀牌] [2025 銅牌]
+## 📊 GitHub Activity
 
-## Technical Interests
+<div align="center">
 
-- **AI & Research:** RAG, NLP, AI Agents, Computer Vision
-- **Languages:** Python, C++, Java, TypeScript
-- **Backend:** FastAPI, Node.js, REST APIs
-- **Infrastructure:** Docker, Linux, GitHub Actions
-- **Databases:** PostgreSQL, Redis, Vector Databases
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=archie0732&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  alt="GitHub statistics"
+/>
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com?user=archie0732&theme=github-dark-blue&hide_border=true"
+  alt="GitHub contribution streak"
+/>
 
-## Currently Working On
+<br/>
 
-- Improving the reliability and evaluation of RAG systems
-- Exploring collaboration and planning in multi-agent systems
-- Building open-source AI applications with real-world users
+<img
+  src="./github-metrics.svg"
+  alt="GitHub Metrics"
+  width="95%"
+/>
 
-## Contact
+</div>
 
-- 📧 [Email](mailto:yuchi.hsu0308@gmail.com)
-- 🌐 [Portfolio](PORTFOLIO_URL)
-- 💼 [LinkedIn](LINKEDIN_URL)
+## 📫 Contact
 
-## GitHub Activity
+<div align="center">
 
-![GitHub Metrics](./github-metrics.svg)
+[![Email](https://img.shields.io/badge/Email-yuchi.hsu0308%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuchi.hsu0308@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-archie0732-181717?style=for-the-badge&logo=github)](https://github.com/archie0732)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/arch1e0732)
 
-<p align="center">
-  <a href="https://ko-fi.com/arch1e0732">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
-  </a>
-</p>
+</div>
