@@ -3,6 +3,8 @@
 I'm **Yu-Chi Hsu**, a developer and undergraduate researcher interested in
 **Retrieval-Augmented Generation, NLP, AI Agents, and practical AI systems**.
 
+| 中文 | 日本語 | English |
+
 > 專門研究／開發看似無用，但意外實用的程式。  
 > 無駄プログラム研究・開発の専門家。  
 > Specialist in building delightfully unnecessary software.
@@ -20,10 +22,10 @@ I'm **Yu-Chi Hsu**, a developer and undergraduate researcher interested in
 
 | Project | Description | Tech | Highlights |
 |---|---|---|---|
-| [healthy-diet-ai-agent](https://github.com/archie0732/healthy-diet-ai-agent) | a | Python, RAG, LLM | Paper, award, users, or stars |
-| [manga-discord-bot](https://github.com/archie0732/manga-discord-bot) | One-sentence description | TypeScript, Discord.js | Used by 200+ Discord servers |
-| [archie npm package](https://www.npmjs.com/~archie0732) | One-sentence description | Node.js, npm | 20,000+ package downloads |
-| [albion-auto-fishing](https://github.com/archie0732/albion-auto-fishing) | One-sentence description | PyTorch, OpenCV | Competition or research result |
+| [healthy-diet-ai-agent](https://github.com/archie0732/healthy-diet-ai-agent) | use Lanchain to imply ai-agent, include rag, read-doc, save userdata  | Python, RAG, LLM | Paper, award, users, or stars |
+| [manga-discord-bot](https://github.com/archie0732/manga-discord-bot) | A discord bot, notificate while new chapter of comic update | TypeScript, Discord.js | Used by 200+ Discord servers |
+| [archie npm package](https://www.npmjs.com/~archie0732) | my `npm` dependency | `Node.js`, `npm` | 20,000+ package downloads |
+| [albion-auto-fishing](https://github.com/archie0732/albion-auto-fishing) | Auto finshing Script in Albion Online | PyTorch, OpenCV | Competition or research result |
 
 ## Research
 
