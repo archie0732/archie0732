@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm ARch1e0732(Yu-Chi Hsu) 👋
+# Hi, I'm Arch1e0732(Yu-Chi Hsu) 👋
 
 ### AI Researcher × Open-Source Developer
 
