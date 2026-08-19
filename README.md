@@ -18,6 +18,17 @@ I'm **Yu-Chi Hsu**, a developer and undergraduate researcher interested in
 - 👨‍🏫 Teaching experience in Javascript, Python, and Rust
 - 💡 Interested in turning research ideas into usable software
 
+## Languages
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,python,rust,c,cpp,flutter,dart,cs,kotlin,java"
+    alt="JavaScript, TypeScript, Python, Rust, C, C++, Flutter, Dart, C#, Kotlin, Java"
+  />
+</p>
+
+
+
 ## Featured Projects
 
 | Project | Description | Tech | Highlights |
