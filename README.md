@@ -139,11 +139,7 @@
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=archie0732&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-  alt="GitHub statistics"
-/>
+
 <img
   width="49%"
   src="https://streak-stats.demolab.com?user=archie0732&theme=github-dark-blue&hide_border=true"
