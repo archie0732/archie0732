@@ -151,7 +151,7 @@
 <img
   src="./github-metrics.svg"
   alt="GitHub Metrics"
-  width="95%"
+  width="65%"
 />
 
 </div>
