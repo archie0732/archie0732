@@ -31,6 +31,20 @@
 - 🏆 Programming contestant and AI competition participant
 - 👨‍🏫 Teaching JavaScript, Python and Rust
 
+<details close>
+  <summary>$\color{#3498db}{\text{👉 點擊查看更多}}$</summary>
+茈發動前的 41 秒內，新宿再次響起了五條悟的吟唱—— <br/>
+「九綱、偏光、烏與聲明、表里之間……」<br/>
+宿儺明白，自己再也沒有任何機會阻止「茈」的誕生了。<br/>
+無限制的虛式如同核爆一般，在新宿亮起沖天的光芒。魔虛羅的輪盤，亦在茈的洪流中灰飛煙滅。<br/>
+日下部的聲音裡，帶著壓抑不住的狂喜。<br />
+虎杖則呆呆地望著螢幕，滿臉不可置信。<br />
+「也就是說……」<br />
+「沒錯。」<br />
+「是五條悟贏了。」<br />
+最強的戰績，銘刻於新宿。<br />
+</details>
+
 ## 🧰 Tech Stack
 
 <div align="center">
