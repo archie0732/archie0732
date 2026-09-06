@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Arch1e0732(Yu-Chi Hsu) 👋
-
-### AI Researcher × Open-Source Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Arch1e0732&fontSize=60&fontColor=58A6FF&fontAlignY=38&animation=fadeIn&desc=Yu-Chi%20Hsu%20%7C%20AI%20Researcher%20%C3%97%20Open-Source%20Developer&descSize=18&descAlignY=58&descColor=C9D1D9" width="100%"/>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Retrieval-Augmented+Generation;AI+Agents+%26+Multi-Agent+Systems;NLP+%26+Computer+Vision;Building+delightfully+unnecessary+software"
@@ -15,11 +13,17 @@
 
 **中文・日本語・English**
 
-> 專門研究／開發看似無用，但意外實用的程式。  
-> 無駄プログラム研究・開発の専門家。  
+> 專門研究／開發看似無用，但意外實用的程式。
+> 無駄プログラム研究・開発の専門家。
 > Building delightfully unnecessary software.
 
 </div>
+
+---
+
+## ⚡ TL;DR
+
+AI Agent 與 RAG 系統開發者・兩篇會議論文第一作者・NPM 套件下載破 2 萬次・Discord Bot 服務 200+ 伺服器
 
 ---
 
@@ -30,20 +34,6 @@
 - 📝 First author of two conference papers
 - 🏆 Programming contestant and AI competition participant
 - 👨‍🏫 Teaching JavaScript, Python and Rust
-
-<details close>
-  <summary>$\color{#3498db}{\text{👉 watch more }}$</summary>
-「茈」發動前的 41 秒內，新宿再次響起了五條悟的吟唱—— <br/>
-「九綱、偏光、烏與聲明、表里之間……」<br/>
-宿儺明白，自己再也沒有任何機會阻止「茈」的誕生了。<br/>
-無限制的虛式如同核爆一般，在新宿亮起沖天的光芒。魔虛羅的輪盤，亦在「茈」的洪流中灰飛煙滅。<br/>
-日下部的聲音裡，帶著壓抑不住的狂喜。<br />
-虎杖則呆呆地望著螢幕，滿臉不可置信。<br />
-「也就是說……」<br />
-「沒錯。」<br />
-「是五條悟贏了。」<br />
-最強的戰績，銘刻於新宿。<br />
-</details>
 
 ## 🧰 Tech Stack
 
@@ -105,10 +95,10 @@
 
 </div>
 
-> 🍎 **Healthy Diet AI Agent** — RAG and tool-augmented dietary assistant  
-> 🤖 **Manga Discord Bot** — Used by 200+ Discord servers  
-> 📦 **NPM Packages** — More than 20,000 downloads  
-> 🎣 **Albion Auto Fishing** — Computer vision and automation  
+> 🍎 **Healthy Diet AI Agent** — RAG × 多模態辨識的飲食紀錄助手，結合影像辨識與工具調用生成營養建議
+> 🤖 **Manga Discord Bot** — 服務 200+ Discord 伺服器，提供漫畫更新推播與查詢功能
+> 📦 **NPM Packages** — 累計下載超過 20,000 次
+> 🎣 **Albion Auto Fishing** — 基於電腦視覺的遊戲自動化釣魚腳本
 
 ## 📄 Research
 
@@ -116,11 +106,13 @@
 
 **Visual Recognition × Tool-Augmented Generation**
 
-[![Conference](https://img.shields.io/badge/TCSE-2026-58A6FF?style=flat-square)](https://tcse2026.seat.org.tw/%E8%AD%B0%E7%A8%8B/%E8%AB%96%E6%96%87%E8%AD%B0%E7%A8%8B)
-![First Author](https://img.shields.io/badge/Role-First_Author-success?style=flat-square)
-![Paper](https://img.shields.io/badge/Paper-No._50-orange?style=flat-square)
+[![Conference](https://img.shields.io/badge/TCSE-2026-58A6FF?style=for-the-badge)](https://tcse2026.seat.org.tw/%E8%AD%B0%E7%A8%8B/%E8%AB%96%E6%96%87%E8%AD%B0%E7%A8%8B)
+![First Author](https://img.shields.io/badge/Role-First_Author-success?style=for-the-badge)
+![Paper](https://img.shields.io/badge/Paper-No._50-orange?style=for-the-badge)
 
 **Yu-Chi Hsu**, Chun-Fang Pan, Chun-Ting Wu, Yi-Wen Lin and Meng-Yen Hsieh
+
+本研究提出一套結合影像辨識與工具增強生成（Tool-Augmented Generation）的智慧飲食管理系統，使用者拍攝餐點照片後，系統可自動辨識食材並呼叫外部工具估算營養成分，再由生成模型給出個人化飲食建議。
 
 [📖 Paper](https://tcse2026.seat.org.tw/%E8%AD%B0%E7%A8%8B/%E8%AB%96%E6%96%87%E8%AD%B0%E7%A8%8B)
 ・
@@ -136,11 +128,9 @@
 | 🥈 | Providence University Programming Contest 2026 |
 | 🥉 | Providence University Programming Contest 2025 |
 
-
 ## 📊 GitHub Activity
 
 <div align="center">
-
 
 <img
   width="49%"
@@ -165,5 +155,29 @@
 [![Email](https://img.shields.io/badge/Email-yuchi.hsu0308%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuchi.hsu0308@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-archie0732-181717?style=for-the-badge&logo=github)](https://github.com/archie0732)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/arch1e0732)
+
+</div>
+
+---
+
+<details close>
+  <summary>$\color{#3498db}{\text{👉 about more }}$</summary>
+
+「茈」發動前的 41 秒內，新宿再次響起了五條悟的吟唱——
+「九綱、偏光、烏與聲明、表里之間……」
+宿儺明白，自己再也沒有任何機會阻止「茈」的誕生了。
+無限制的虛式如同核爆一般，在新宿亮起沖天的光芒。魔虛羅的輪盤，亦在「茈」的洪流中灰飛煙滅。
+日下部的聲音裡，帶著壓抑不住的狂喜。
+虎杖則呆呆地望著螢幕，滿臉不可置信。
+「也就是說……」
+「沒錯。」
+「是五條悟贏了。」
+最強的戰績，銘刻於新宿。
+
+</details>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
 
 </div>
