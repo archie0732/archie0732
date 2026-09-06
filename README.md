@@ -32,7 +32,7 @@
 - 👨‍🏫 Teaching JavaScript, Python and Rust
 
 <details close>
-  <summary>$\color{#3498db}{\text{👉 點擊查看更多}}$</summary>
+  <summary>$\color{#3498db}{\text{👉 watch more }}$</summary>
 茈發動前的 41 秒內，新宿再次響起了五條悟的吟唱—— <br/>
 「九綱、偏光、烏與聲明、表里之間……」<br/>
 宿儺明白，自己再也沒有任何機會阻止「茈」的誕生了。<br/>
@@ -62,6 +62,12 @@
 />
 
 </div>
+
+## 🤝 Open-Source Contributions
+
+[![Alexandrie](https://img.shields.io/badge/Alexandrie-2.3k%2B_Stars-181717?style=for-the-badge&logo=github)](https://github.com/Smaug6739/Alexandrie)
+[![DPIP](https://img.shields.io/badge/DPIP-Contributor-181717?style=for-the-badge&logo=github)](https://github.com/ExpTechTW/DPIP)
+[![Short Drama Platform](https://img.shields.io/badge/Short_Drama_Platform-Contributor-181717?style=for-the-badge&logo=github)](https://github.com/fish-es/fish-short-drama-platform)
 
 ## 🚀 Featured Projects
 
@@ -130,10 +136,6 @@
 | 🥈 | Providence University Programming Contest 2026 |
 | 🥉 | Providence University Programming Contest 2025 |
 
-## 🤝 Open-Source Contributions
-
-[![Alexandrie](https://img.shields.io/badge/Alexandrie-2.3k%2B_Stars-181717?style=for-the-badge&logo=github)](https://github.com/Smaug6739/Alexandrie)
-[![Short Drama Platform](https://img.shields.io/badge/Short_Drama_Platform-Contributor-181717?style=for-the-badge&logo=github)](https://github.com/fish-es/fish-short-drama-platform)
 
 ## 📊 GitHub Activity
 
