@@ -118,6 +118,19 @@ AI Agent 與 RAG 系統開發者・兩篇會議論文第一作者・NPM 套件�
 ・
 [💻 Source Code](https://github.com/archie0732/healthy-diet)
 
+
+### Conditional Version-Aware Retrieval for Evolving Health Guidelines: Iterative Design and Empirical Evaluation of a RAG Retrieval Policy
+
+[![Conference](https://img.shields.io/badge/TANET-58A6FF?style=for-the-badge)](https://tcse2026.seat.org.tw/%E8%AD%B0%E7%A8%8B/%E8%AB%96%E6%96%87%E8%AD%B0%E7%A8%8B)
+![First Author](https://img.shields.io/badge/Role-First_Author-success?style=for-the-badge)
+
+
+**Yu-Chi Hsu**, Meng-Yen Hsieh
+
+被提名最佳論文(準備參加競選)
+
+
+
 ## 🏆 Achievements
 
 | | Achievement |
