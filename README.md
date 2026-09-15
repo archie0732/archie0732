@@ -56,6 +56,7 @@ AI Agent 與 RAG 系統開發者・兩篇會議論文第一作者・NPM 套件�
 ## 🤝 Open-Source Contributions
 
 [![Alexandrie](https://img.shields.io/badge/Alexandrie-2.3k%2B_Stars-181717?style=for-the-badge&logo=github)](https://github.com/Smaug6739/Alexandrie)
+[![ytmdesktop2](https://img.shields.io/badge/ytmdesktop2-1k%2B_Stars-181717?style=for-the-badge&logo=github)](https://github.com/Venipa/ytmdesktop2)
 [![DPIP](https://img.shields.io/badge/DPIP-Contributor-181717?style=for-the-badge&logo=github)](https://github.com/ExpTechTW/DPIP)
 [![Short Drama Platform](https://img.shields.io/badge/Short_Drama_Platform-Contributor-181717?style=for-the-badge&logo=github)](https://github.com/fish-es/fish-short-drama-platform)
 
