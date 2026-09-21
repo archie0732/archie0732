@@ -113,7 +113,21 @@ AI Agent 與 RAG 系統開發者・兩篇會議論文第一作者・NPM 套件�
 
 **Yu-Chi Hsu**, Chun-Fang Pan, Chun-Ting Wu, Yi-Wen Lin and Meng-Yen Hsieh
 
+
+<details>
+<summary><b>🇨🇳 繁體中文</b></summary>
 本研究提出一套結合影像辨識與工具增強生成（Tool-Augmented Generation）的智慧飲食管理系統，使用者拍攝餐點照片後，系統可自動辨識食材並呼叫外部工具估算營養成分，再由生成模型給出個人化飲食建議。
+</details>
+
+<details>
+<summary><b>🇺🇸 English</b></summary>
+This research proposes an intelligent dietary management system combining computer vision and Tool-Augmented Generation (TAG). After a user takes a photo of their meal, the system automatically identifies the ingredients, invokes external tools to estimate nutritional values, and utilizes a generative model to provide personalized dietary recommendations.
+</details>
+
+<details>
+<summary><b>🇯🇵 日本語</b></summary>
+本研究では、画像認識とツール拡張生成（Tool-Augmented Generation）を組み合わせた知的食事管理システムを提案する。ユーザーが食事の写真を撮影すると、システムが自動的に食材を識別し、外部ツールを呼び出して栄養成分を推計した上で、生成モデルを通じてパーソナライズされた食事アドバイスを提供する。
+</details>
 
 [📖 Paper](https://tcse2026.seat.org.tw/%E8%AD%B0%E7%A8%8B/%E8%AB%96%E6%96%87%E8%AD%B0%E7%A8%8B)
 ・
@@ -127,7 +141,21 @@ AI Agent 與 RAG 系統開發者・兩篇會議論文第一作者・NPM 套件�
 
 
 **Yu-Chi Hsu**, Meng-Yen Hsieh
-針對健康指引新舊版本並存的證據選取問題，提出依查詢意圖啟用版本配對的 RAG 檢索策略。在保留測試集的 20 題歷史比較查詢中，將必要證據 Recall@3 由 0.100 提升至 0.525，並以消融實驗驗證版本配對的貢獻。
+
+<details>
+<summary><b>🇨🇳 繁體中文</b></summary>
+本研究提出一套結合影像辨識與工具增強生成（Tool-Augmented Generation）的智慧飲食管理系統，使用者拍攝餐點照片後，系統可自動辨識食材並呼叫外部工具估算營養成分，再由生成模型給出個人化飲食建議。
+</details>
+
+<details>
+<summary><b>🇺🇸 English</b></summary>
+This research proposes an intelligent dietary management system combining computer vision and Tool-Augmented Generation (TAG). After a user takes a photo of their meal, the system automatically identifies the ingredients, invokes external tools to estimate nutritional values, and utilizes a generative model to provide personalized dietary recommendations.
+</details>
+
+<details>
+<summary><b>🇯🇵 日本語</b></summary>
+本研究では、画像認識とツール拡張生成（Tool-Augmented Generation）を組み合わせた知的食事管理システムを提案する。ユーザーが食事の写真を撮影すると、システムが自動的に食材を識別し、外部ツールを呼び出して栄養成分を推計した上で、生成モデルを通じてパーソナライズされた食事アドバイスを提供する。
+</details>
 
 
 
