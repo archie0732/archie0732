@@ -143,18 +143,18 @@ This research proposes an intelligent dietary management system combining comput
 **Yu-Chi Hsu**, Meng-Yen Hsieh
 
 <details>
-<summary><b>🇨🇳 繁體中文</b></summary>
-本研究提出一套結合影像辨識與工具增強生成（Tool-Augmented Generation）的智慧飲食管理系統，使用者拍攝餐點照片後，系統可自動辨識食材並呼叫外部工具估算營養成分，再由生成模型給出個人化飲食建議。
+<summary><b>中文</b></summary>
+針對健康指引新舊版本並存的證據選取問題，提出依查詢意圖啟用版本配對的 RAG 檢索策略。在保留測試集的 20 題歷史比較查詢中，將必要證據 Recall@3 由 0.100 提升至 0.525，並以消融實驗驗證版本配對的貢獻。
 </details>
 
 <details>
-<summary><b>🇺🇸 English</b></summary>
-This research proposes an intelligent dietary management system combining computer vision and Tool-Augmented Generation (TAG). After a user takes a photo of their meal, the system automatically identifies the ingredients, invokes external tools to estimate nutritional values, and utilizes a generative model to provide personalized dietary recommendations.
+<summary><b>English</b></summary>
+To address the evidence selection issue caused by the coexistence of old and new versions of health guidelines, we propose a query-intent-driven version-matching RAG retrieval strategy. Among 20 historical comparative queries in the reserved test set, this approach improves the Recall@3 of necessary evidence from 0.100 to 0.525, and validates the contribution of version matching through ablation experiments.
 </details>
 
 <details>
-<summary><b>🇯🇵 日本語</b></summary>
-本研究では、画像認識とツール拡張生成（Tool-Augmented Generation）を組み合わせた知的食事管理システムを提案する。ユーザーが食事の写真を撮影すると、システムが自動的に食材を識別し、外部ツールを呼び出して栄養成分を推計した上で、生成モデルを通じてパーソナライズされた食事アドバイスを提供する。
+<summary><b>日本語</b></summary>
+新旧バージョンの健康ガイドラインが混在する状況におけるエビデンス選択の課題に対し、クエリ意図に基づくバージョンマッチング型RAG検索戦略を提案する。テストセットに残された20件の過去の比較クエリにおいて、必要とされるエビデンスのRecall@3を0.100から0.525へと向上させ、さらにアブレーション実験を通じてバージョンマッチングの貢献度を検証した。
 </details>
 
 
