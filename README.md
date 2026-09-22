@@ -21,11 +21,8 @@
 
 ---
 
-## ⚡ TL;DR
 
-AI Agent 與 RAG 系統開發者・兩篇會議論文第一作者・NPM 套件下載破 2 萬次・Discord Bot 服務 200+ 伺服器
 
----
 
 ## 👨‍💻 About Me
 
