@@ -113,17 +113,17 @@
 
 
 <details>
-<summary><b>🇨🇳 繁體中文</b></summary>
+<summary><b>中文</b></summary>
 本研究提出一套結合影像辨識與工具增強生成（Tool-Augmented Generation）的智慧飲食管理系統，使用者拍攝餐點照片後，系統可自動辨識食材並呼叫外部工具估算營養成分，再由生成模型給出個人化飲食建議。
 </details>
 
 <details>
-<summary><b>🇺🇸 English</b></summary>
+<summary><b>English</b></summary>
 This research proposes an intelligent dietary management system combining computer vision and Tool-Augmented Generation (TAG). After a user takes a photo of their meal, the system automatically identifies the ingredients, invokes external tools to estimate nutritional values, and utilizes a generative model to provide personalized dietary recommendations.
 </details>
 
 <details>
-<summary><b>🇯🇵 日本語</b></summary>
+<summary><b>日本語</b></summary>
 本研究では、画像認識とツール拡張生成（Tool-Augmented Generation）を組み合わせた知的食事管理システムを提案する。ユーザーが食事の写真を撮影すると、システムが自動的に食材を識別し、外部ツールを呼び出して栄養成分を推計した上で、生成モデルを通じてパーソナライズされた食事アドバイスを提供する。
 </details>
 
@@ -134,7 +134,7 @@ This research proposes an intelligent dietary management system combining comput
 
 ### Conditional Version-Aware Retrieval for Evolving Health Guidelines: Iterative Design and Empirical Evaluation of a RAG Retrieval Policy
 
-[![Conference](https://img.shields.io/badge/TANET-58A6FF?style=for-the-badge)](https://tcse2026.seat.org.tw/%E8%AD%B0%E7%A8%8B/%E8%AB%96%E6%96%87%E8%AD%B0%E7%A8%8B)
+[![Conference](https://img.shields.io/badge/TANET-2026-58A6FF?style=for-the-badge)](https://tcse2026.seat.org.tw/%E8%AD%B0%E7%A8%8B/%E8%AB%96%E6%96%87%E8%AD%B0%E7%A8%8B)
 ![First Author](https://img.shields.io/badge/Role-First_Author-success?style=for-the-badge)
 
 
@@ -155,6 +155,9 @@ To address the evidence selection issue caused by the coexistence of old and new
 新旧バージョンの健康ガイドラインが混在する状況におけるエビデンス選択の課題に対し、クエリ意図に基づくバージョンマッチング型RAG検索戦略を提案する。テストセットに残された20件の過去の比較クエリにおいて、必要とされるエビデンスのRecall@3を0.100から0.525へと向上させ、さらにアブレーション実験を通じてバージョンマッチングの貢献度を検証した。
 </details>
 
+[📖 Paper](https://tanet2026.ntunhs.edu.tw/)
+・
+[💻 Source Code](https://github.com/archie0732/healthy-diet-ai-agent)
 
 
 
