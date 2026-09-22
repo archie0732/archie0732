@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="529" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="527" class="">
     <defs>
         <style/>
     </defs>
@@ -65,7 +65,7 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">那年的風很大，大到我以為你會贏😭</div>
+                        <div class="introduction">I want to go to grad school.</div>
                     </section>
                 </div>
             </section>
@@ -269,7 +269,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Sept 2026, 11:54:05 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2026, 11:54:42 (timezone Asia/Taipei) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
