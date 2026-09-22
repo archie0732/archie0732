@@ -52,6 +52,7 @@
 
 ## 🤝 Open-Source Contributions
 
+[![Roboflow/supervision](https://img.shields.io/badge/roboflow_supervision-51.3k%2B_Stars-181717?style=for-the-badge&logo=github)](https://github.com/roboflow/supervision)
 [![Alexandrie](https://img.shields.io/badge/Alexandrie-2.3k%2B_Stars-181717?style=for-the-badge&logo=github)](https://github.com/Smaug6739/Alexandrie)
 [![ytmdesktop2](https://img.shields.io/badge/ytmdesktop2-1k%2B_Stars-181717?style=for-the-badge&logo=github)](https://github.com/Venipa/ytmdesktop2)
 [![DPIP](https://img.shields.io/badge/DPIP-Contributor-181717?style=for-the-badge&logo=github)](https://github.com/ExpTechTW/DPIP)
