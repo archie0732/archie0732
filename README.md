@@ -172,26 +172,6 @@ To address the evidence selection issue caused by the coexistence of old and new
 | 🥈 | Providence University Programming Contest 2026 |
 | 🥉 | Providence University Programming Contest 2025 |
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=archie0732&theme=github-dark-blue&hide_border=true"
-  alt="GitHub contribution streak"
-/>
-
-<br/>
-
-<img
-  src="./github-metrics.svg"
-  alt="GitHub Metrics"
-  width="65%"
-/>
-
-</div>
-
 ## 📫 Contact
 
 <div align="center">
