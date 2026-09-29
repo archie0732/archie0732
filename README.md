@@ -13,7 +13,7 @@
 ![Papers](https://img.shields.io/badge/First--Author_Papers-2-2EA043?style=flat-square)
 ![AI CUP](https://img.shields.io/badge/AI_CUP_2025-Top_3.7%25-F0883E?style=flat-square)
 ![PUPC](https://img.shields.io/badge/ICPC_PUPC_2026-Silver-A5B4C3?style=flat-square)
-![Rank](https://img.shields.io/badge/Dept._Rank-Top_5%25-8957E5?style=flat-square)
+![Rank](https://img.shields.io/badge/Dept._Rank-Top_3.48%25-8957E5?style=flat-square)
 
 </div>
 
@@ -159,7 +159,7 @@ Advisor: Prof. Meng-Yen Hsieh (謝孟諺), Providence University.
 
 **B.S. in Computer Science and Information Engineering** · Providence University, Taichung, Taiwan · *2023 – 2027 (expected)*
 
-- Ranked in the top 5% of the department in most semesters, and 1st of 124 in the fall semester of my second year.
+- Ranked in the top 3.48% of the department in most semesters, and 1st of 124 in the fall semester of my second year.
 - Relevant coursework: Image Processing, Advanced Deep Learning, Introduction to Computer Vision, Artificial Intelligence, Algorithms, Data Structures, Operating Systems, Linear Algebra, Probability and Statistics.
 
 ## 💼 Experience
