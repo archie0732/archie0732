@@ -129,7 +129,7 @@ Advisor: Prof. Meng-Yen Hsieh (謝孟諺), Providence University.
 
 | Project | Highlight |
 |---|---|
-| 🍎 **[healthy-diet-ai-agent](https://github.com/archie0732/healthy-diet-ai-agent)** | Agent and RAG component of VerHealth Agent, with the experiments for the version-aware retrieval paper. Written entirely by me. |
+| 🍎 **[healthy-diet-ai-agent](https://github.com/archie0732/healthy-diet-ai-agent)** | Agent and RAG component of VerHealth Agent, with the experiments for the version-aware retrieval paper. code written by me, advised by Prof. Hsieh. |
 | 🫀 **[AICUP-2025-Aortic-Valve-Detection](https://github.com/archie0732/AICUP-2025-Aortic-Valve-Detection)** | My AI CUP 2025 entry. Keeps every version of the code, training configs, score history, and failed attempts. |
 | 🧪 **[auto-check-hw](https://github.com/archie0732/auto-check-hw)** | An online judge I built as a C/C++ teaching assistant so students could submit work and get results right away. It grew out of [coding-bot-v2](https://github.com/archie0732/coding-bot-v2), a Discord bot. |
 | 📝 **[TA-auto-script](https://github.com/archie0732/TA-auto-script)** | OCR plus web automation for tutoring records. The university approved it and passed it on to later TAs. It cut each entry from about 30 minutes to about 5. |
